@@ -1,0 +1,160 @@
+body, h1, h2, h3, p, ul, li, figure, figcaption, blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #fffffe;
+    padding: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    height: 90px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li:first-child {
+    margin-left: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.menu-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.menu-item {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #eee;
+    border-radius: 5px;
+}
+
+.menu-item h3 {
+    padding: 15px 0;
+    font-size: 20px;
+}
+
+.menu-item p {
+    padding: 0 20px 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.follow-us {
+    text-align: center;
+}
+
+.follow-us h3 {
+    margin-bottom: 10px;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-media img {
+    width: 40px;
+    height: 40px;
+}
+
+.footer .container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.buttons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 0 10px;
+    background-color: #c9a7aa;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 100px;
+    transition: background-color 0.3s ease;
+    font-size: 24px;
+}
+
+.btn:hover {
+    background-color: #9d0208;
+}
+
+.btn {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn {
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
