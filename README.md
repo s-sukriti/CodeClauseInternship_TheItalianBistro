@@ -10,10 +10,10 @@ The Italian Bistro landing page is a simple yet elegant web page designed to sho
 
 Here are screenshots of the Italian Bistro landing page:
 
-1. ![Screenshot 1](images/sc1.png) - Home Page
-2. ![Screenshot 2](images/sc2.png) - Menu Section
-3. ![Screenshot 3](images/sc3.png) - Contact Section
-4. ![Screenshot 4](images/sc4.png) - About Section
+1. Home Page- ![Screenshot 1](images/sc1.png) 
+2. Menu Section- ![Screenshot 2](images/sc2.png) 
+3. Contact Section ![Screenshot 3](images/sc3.png)
+4. About Section- ![Screenshot 4](images/sc4.png)
 
 ## Technologies Used
 
